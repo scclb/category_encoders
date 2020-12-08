@@ -10,8 +10,8 @@ variables into numeric by means of different techniques.
 Important Links
 ---------------
 
-Documentation: [http://contrib.scikit-learn.org/category_encoders/](http://contrib.scikit-learn.org/category_encoders/)
-sample_used kaggle : [https://www.kaggle.com/matleonard/categorical-encodings](https://www.kaggle.com/matleonard/categorical-encodings)
+Documentation: [http://contrib.scikit-learn.org/category_encoders/](http://contrib.scikit-learn.org/category_encoders/)  
+Simple use case-kaggle : [https://www.kaggle.com/matleonard/categorical-encodings](https://www.kaggle.com/matleonard/categorical-encodings)
 
 Encoding Methods
 ----------------
