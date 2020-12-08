@@ -11,6 +11,7 @@ Important Links
 ---------------
 
 Documentation: [http://contrib.scikit-learn.org/category_encoders/](http://contrib.scikit-learn.org/category_encoders/)
+sample_used kaggle : [https://www.kaggle.com/matleonard/categorical-encodings](https://www.kaggle.com/matleonard/categorical-encodings)
 
 Encoding Methods
 ----------------
